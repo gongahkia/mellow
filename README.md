@@ -14,7 +14,7 @@ Build [Mellow](https://github.com/gongahkia/mellow) locally.
 
 ```console
 $ git clone https://github.com/gongahkia/mellow
-$ cd mellow/app/mellow
+$ cd mellow/src/mellows
 $ npm install @radix-ui/react-slider lucide-react class-variance-authority clsx tailwind-merge
 $ npx shadcn@latest add button input slider
 $ npm run dev
