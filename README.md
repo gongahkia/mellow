@@ -2,9 +2,9 @@
 
 # `Mellow` 👽
 
-Psychedelic [GarageBand](https://www.apple.com/sg/mac/garageband/) for aliens that runs in the browser.
+Psychedelic [GarageBand](https://www.apple.com/sg/mac/garageband/) that runs in the browser.
 
-Implemented in just over [4 hours]().
+Implemented in just over [4 hours](https://github.com/gongahkia/mellow/commit/27ff901b95517eae0281b593d0a7ffc768b8e244).
 
 Here's [why](#retrospect) I did it.
 
